@@ -1,0 +1,14 @@
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\bin\Debug\net6.0\Bai3.exe
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\bin\Debug\net6.0\Bai3.deps.json
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\bin\Debug\net6.0\Bai3.runtimeconfig.json
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\bin\Debug\net6.0\Bai3.dll
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\bin\Debug\net6.0\Bai3.pdb
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\obj\Debug\net6.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfoInputs.cache
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfo.cs
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\obj\Debug\net6.0\Bai3.csproj.CoreCompileInputs.cache
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\obj\Debug\net6.0\Bai3.dll
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\obj\Debug\net6.0\refint\Bai3.dll
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\obj\Debug\net6.0\Bai3.pdb
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\obj\Debug\net6.0\Bai3.genruntimeconfig.cache
+D:\Personal\Documents\University\.NET\B4\DoTheNhuan_2021600381_proj41\Bai3\obj\Debug\net6.0\ref\Bai3.dll

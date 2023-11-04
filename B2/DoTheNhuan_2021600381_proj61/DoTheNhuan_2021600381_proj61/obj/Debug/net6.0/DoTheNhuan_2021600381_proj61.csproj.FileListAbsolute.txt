@@ -1,0 +1,14 @@
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\bin\Debug\net6.0\DoTheNhuan_2021600381_proj61.exe
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\bin\Debug\net6.0\DoTheNhuan_2021600381_proj61.deps.json
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\bin\Debug\net6.0\DoTheNhuan_2021600381_proj61.runtimeconfig.json
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\bin\Debug\net6.0\DoTheNhuan_2021600381_proj61.dll
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\bin\Debug\net6.0\DoTheNhuan_2021600381_proj61.pdb
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\obj\Debug\net6.0\DoTheNhuan_2021600381_proj61.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\obj\Debug\net6.0\DoTheNhuan_2021600381_proj61.AssemblyInfoInputs.cache
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\obj\Debug\net6.0\DoTheNhuan_2021600381_proj61.AssemblyInfo.cs
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\obj\Debug\net6.0\DoTheNhuan_2021600381_proj61.csproj.CoreCompileInputs.cache
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\obj\Debug\net6.0\DoTheNhuan_2021600381_proj61.dll
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\obj\Debug\net6.0\refint\DoTheNhuan_2021600381_proj61.dll
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\obj\Debug\net6.0\DoTheNhuan_2021600381_proj61.pdb
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\obj\Debug\net6.0\DoTheNhuan_2021600381_proj61.genruntimeconfig.cache
+D:\Personal\Documents\University\.NET\B2\DoTheNhuan_2021600381_proj61\DoTheNhuan_2021600381_proj61\obj\Debug\net6.0\ref\DoTheNhuan_2021600381_proj61.dll

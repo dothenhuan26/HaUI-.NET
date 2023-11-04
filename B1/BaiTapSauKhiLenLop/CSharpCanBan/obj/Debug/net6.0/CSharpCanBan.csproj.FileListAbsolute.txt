@@ -1,0 +1,14 @@
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.exe
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.deps.json
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.runtimeconfig.json
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.pdb
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.AssemblyInfoInputs.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.AssemblyInfo.cs
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.csproj.CoreCompileInputs.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\refint\CSharpCanBan.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.pdb
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.genruntimeconfig.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\ref\CSharpCanBan.dll

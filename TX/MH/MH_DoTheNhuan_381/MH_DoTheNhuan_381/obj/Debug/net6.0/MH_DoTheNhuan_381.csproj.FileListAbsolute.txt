@@ -1,0 +1,14 @@
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\bin\Debug\net6.0\MH_DoTheNhuan_381.exe
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\bin\Debug\net6.0\MH_DoTheNhuan_381.deps.json
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\bin\Debug\net6.0\MH_DoTheNhuan_381.runtimeconfig.json
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\bin\Debug\net6.0\MH_DoTheNhuan_381.dll
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\bin\Debug\net6.0\MH_DoTheNhuan_381.pdb
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\obj\Debug\net6.0\MH_DoTheNhuan_381.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\obj\Debug\net6.0\MH_DoTheNhuan_381.AssemblyInfoInputs.cache
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\obj\Debug\net6.0\MH_DoTheNhuan_381.AssemblyInfo.cs
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\obj\Debug\net6.0\MH_DoTheNhuan_381.csproj.CoreCompileInputs.cache
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\obj\Debug\net6.0\MH_DoTheNhuan_381.dll
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\obj\Debug\net6.0\refint\MH_DoTheNhuan_381.dll
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\obj\Debug\net6.0\MH_DoTheNhuan_381.pdb
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\obj\Debug\net6.0\MH_DoTheNhuan_381.genruntimeconfig.cache
+D:\Personal\Documents\University\.NET\TX\MH_DoTheNhuan_381\MH_DoTheNhuan_381\obj\Debug\net6.0\ref\MH_DoTheNhuan_381.dll

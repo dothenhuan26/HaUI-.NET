@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DoTheNhuan_2021600381_proj62/1.0.0": {
+        "runtime": {
+          "DoTheNhuan_2021600381_proj62.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoTheNhuan_2021600381_proj62/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

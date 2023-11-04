@@ -1,0 +1,14 @@
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\bin\Debug\net6.0\TamGiac.exe
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\bin\Debug\net6.0\TamGiac.deps.json
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\bin\Debug\net6.0\TamGiac.runtimeconfig.json
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\bin\Debug\net6.0\TamGiac.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\bin\Debug\net6.0\TamGiac.pdb
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\obj\Debug\net6.0\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\obj\Debug\net6.0\TamGiac.AssemblyInfoInputs.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\obj\Debug\net6.0\TamGiac.AssemblyInfo.cs
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\obj\Debug\net6.0\TamGiac.csproj.CoreCompileInputs.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\obj\Debug\net6.0\TamGiac.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\obj\Debug\net6.0\refint\TamGiac.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\obj\Debug\net6.0\TamGiac.pdb
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\obj\Debug\net6.0\TamGiac.genruntimeconfig.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TamGiac\obj\Debug\net6.0\ref\TamGiac.dll

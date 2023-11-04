@@ -1,0 +1,14 @@
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\bin\Debug\net6.0\TapTin.exe
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\bin\Debug\net6.0\TapTin.deps.json
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\bin\Debug\net6.0\TapTin.runtimeconfig.json
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\bin\Debug\net6.0\TapTin.dll
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\bin\Debug\net6.0\TapTin.pdb
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\obj\Debug\net6.0\TapTin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\obj\Debug\net6.0\TapTin.AssemblyInfoInputs.cache
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\obj\Debug\net6.0\TapTin.AssemblyInfo.cs
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\obj\Debug\net6.0\TapTin.csproj.CoreCompileInputs.cache
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\obj\Debug\net6.0\TapTin.dll
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\obj\Debug\net6.0\refint\TapTin.dll
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\obj\Debug\net6.0\TapTin.pdb
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\obj\Debug\net6.0\TapTin.genruntimeconfig.cache
+D:\Personal\Documents\University\.NET\B2\Bai2VN\TapTin\obj\Debug\net6.0\ref\TapTin.dll

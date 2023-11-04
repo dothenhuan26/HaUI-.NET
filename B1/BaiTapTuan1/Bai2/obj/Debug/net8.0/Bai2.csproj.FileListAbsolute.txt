@@ -1,0 +1,14 @@
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\bin\Debug\net8.0\Bai2.exe
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\bin\Debug\net8.0\Bai2.deps.json
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\bin\Debug\net8.0\Bai2.runtimeconfig.json
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\bin\Debug\net8.0\Bai2.dll
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\bin\Debug\net8.0\Bai2.pdb
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\obj\Debug\net8.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\obj\Debug\net8.0\Bai2.AssemblyInfoInputs.cache
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\obj\Debug\net8.0\Bai2.AssemblyInfo.cs
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\obj\Debug\net8.0\Bai2.csproj.CoreCompileInputs.cache
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\obj\Debug\net8.0\Bai2.dll
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\obj\Debug\net8.0\refint\Bai2.dll
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\obj\Debug\net8.0\Bai2.pdb
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\obj\Debug\net8.0\Bai2.genruntimeconfig.cache
+D:\Workspace\Learn .NET\BaiTapTuan1\Bai2\obj\Debug\net8.0\ref\Bai2.dll

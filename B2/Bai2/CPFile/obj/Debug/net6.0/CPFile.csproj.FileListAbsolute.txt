@@ -1,0 +1,14 @@
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\bin\Debug\net6.0\CPFile.exe
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\bin\Debug\net6.0\CPFile.deps.json
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\bin\Debug\net6.0\CPFile.runtimeconfig.json
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\bin\Debug\net6.0\CPFile.dll
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\bin\Debug\net6.0\CPFile.pdb
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\obj\Debug\net6.0\CPFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\obj\Debug\net6.0\CPFile.AssemblyInfoInputs.cache
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\obj\Debug\net6.0\CPFile.AssemblyInfo.cs
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\obj\Debug\net6.0\CPFile.csproj.CoreCompileInputs.cache
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\obj\Debug\net6.0\CPFile.dll
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\obj\Debug\net6.0\refint\CPFile.dll
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\obj\Debug\net6.0\CPFile.pdb
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\obj\Debug\net6.0\CPFile.genruntimeconfig.cache
+D:\Personal\Documents\University\.NET\B2\Bai2\CPFile\obj\Debug\net6.0\ref\CPFile.dll

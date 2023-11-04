@@ -1,0 +1,14 @@
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS.exe
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS.deps.json
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS.runtimeconfig.json
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS.pdb
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.AssemblyInfoInputs.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.AssemblyInfo.cs
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.csproj.CoreCompileInputs.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\obj\Debug\net6.0\refint\XepLoaiHS.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.pdb
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS.genruntimeconfig.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\XepLoaiHS\obj\Debug\net6.0\ref\XepLoaiHS.dll

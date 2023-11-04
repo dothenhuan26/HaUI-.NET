@@ -1,0 +1,14 @@
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\bin\Debug\net6.0\TongChuoi.exe
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\bin\Debug\net6.0\TongChuoi.deps.json
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\bin\Debug\net6.0\TongChuoi.runtimeconfig.json
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\bin\Debug\net6.0\TongChuoi.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\bin\Debug\net6.0\TongChuoi.pdb
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.AssemblyInfoInputs.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.AssemblyInfo.cs
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.csproj.CoreCompileInputs.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\obj\Debug\net6.0\refint\TongChuoi.dll
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.pdb
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.genruntimeconfig.cache
+D:\Workspace\Learn .NET\BaiTapSauKhiLenLop\TongChuoi\obj\Debug\net6.0\ref\TongChuoi.dll
