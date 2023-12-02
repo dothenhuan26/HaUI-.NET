@@ -1,0 +1,108 @@
+﻿<Window x:Class="Bai9._4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai9._4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid ShowGridLines="False" Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Grid.ColumnSpan="2" FontSize="36" FontWeight="Bold">Bảng Tính Tiền Điện</TextBlock>
+
+        <Grid Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0">Họ tên khách hàng:</Label>
+            <ComboBox Name="name" Grid.Column="1">
+                <ComboBoxItem>Nguyễn Thanh Tâm</ComboBoxItem>
+                <ComboBoxItem>Doãn Chí Bình</ComboBoxItem>
+            </ComboBox>
+        </Grid>
+
+        <Grid Grid.Column="0" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label VerticalAlignment="Center" Grid.Column="0" Grid.Row="0">Chỉ số cũ:</Label>
+            <Label VerticalAlignment="Center" Grid.Column="0" Grid.Row="1">Chỉ số mới:</Label>
+            <Label VerticalAlignment="Center" Grid.Column="0" Grid.Row="2">Số kw tiêu thụ:</Label>
+
+            <TextBox Style="{StaticResource textbox}" Name="oldIndex" Grid.Column="1" Grid.Row="0"/>
+            <TextBox Style="{StaticResource textbox}" Name="newIndex" Grid.Column="1" Grid.Row="1"/>
+            <TextBox Style="{StaticResource textbox}" Name="totalIndex" Grid.Column="1" Grid.Row="2"/>
+
+        </Grid>
+
+        <Grid Grid.Column="1" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label VerticalAlignment="Center" Grid.Column="0" Grid.Row="0">Số kw trong định mức:</Label>
+            <Label VerticalAlignment="Center" Grid.Column="0" Grid.Row="1">Số kw vượt định mức:</Label>
+
+            <StackPanel Grid.ColumnSpan="2" Grid.Row="2">
+                <TextBlock>Định mức là 50kw</TextBlock>
+                <TextBlock>Trong định mức là 500đ/1kw</TextBlock>
+                <TextBlock>Vượt định mức là 1000đ/1kw</TextBlock>
+            </StackPanel>
+
+            <TextBox Style="{StaticResource textbox}" Name="inQuota" Grid.Column="1" Grid.Row="0"/>
+            <TextBox Style="{StaticResource textbox}" Name="outQuota" Grid.Column="1" Grid.Row="1"/>
+        </Grid>
+
+        <Grid Grid.Row="3" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock HorizontalAlignment="Center" Grid.Row="0">Tổng tiền phải trả:</TextBlock>
+            <TextBox Name="total" Grid.Row="1" Style="{StaticResource textbox}"/>
+            <WrapPanel Grid.Row="2" AllowDrop="True" HorizontalAlignment="Center">
+                <Button Name="calc" Style="{StaticResource button}" Click="calc_Click">Tính</Button>
+                <Button Name="print" Style="{StaticResource button}">In</Button>
+                <Button Name="finish" Style="{StaticResource button}">Thoát</Button>
+            </WrapPanel>
+        </Grid>
+
+        <ListBox Name="result" Grid.Column="1" Grid.Row="3">
+
+        </ListBox>
+
+
+    </Grid>
+</Window>
