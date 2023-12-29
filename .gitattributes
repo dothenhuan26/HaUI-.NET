@@ -1,1 +1,2 @@
+*.rar filter=lfs diff=lfs merge=lfs -text
 KTHP/Video-On-Tap-EFCore/Video-Ôn-tập-EFCore.rar filter=lfs diff=lfs merge=lfs -text
