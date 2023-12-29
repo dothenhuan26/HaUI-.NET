@@ -1,0 +1,54 @@
+﻿<Application x:Class="DoTheNhuan_381.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DoTheNhuan_381"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="TextBlockStyle" TargetType="TextBlock">
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+
+        <Style TargetType="TextBox" x:Key="TextBoxStyle">
+            <Setter Property="Margin" Value="10" />
+            <Setter Property="Padding" Value="10,5,10,5" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="Foreground" Value="Blue" />
+            <Setter Property="FontFamily" Value="Times New Roman" />
+        </Style>
+
+        <Style TargetType="DataGridColumnHeader" x:Key="ColumnHeaderStyle">
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+
+        <Style TargetType="DataGridCell" x:Key="TextColumnStyle">
+            <Setter Property="HorizontalAlignment" Value="Right" />
+            <Setter Property="Foreground" Value="Blue" />
+        </Style>
+
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Margin" Value="10" />
+            <Setter Property="MinHeight" Value="30" />
+            <Setter Property="MinWidth" Value="60" />
+            <Setter Property="Background" Value="Blue" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="Padding" Value="10,5,10,5" />
+        </Style>
+
+        <ControlTemplate TargetType="Button" x:Key="ButtonTemplate">
+            <Grid>
+                <!--<Border CornerRadius="20" Background="{TemplateBinding Background}" />-->
+                <Ellipse Width="100" Height="50" Fill="{TemplateBinding Background}" />
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </Grid>
+        </ControlTemplate>
+
+    </Application.Resources>
+</Application>
