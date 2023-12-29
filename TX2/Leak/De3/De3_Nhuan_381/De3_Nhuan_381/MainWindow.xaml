@@ -1,0 +1,61 @@
+﻿<Window x:Class="De3_Nhuan_381.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De3_Nhuan_381"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid Background="LightSteelBlue" ShowGridLines="False" Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="35" FontWeight="Bold" Foreground="DarkOrange">Thông tin nhân viên</TextBlock>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Style="{StaticResource TextBlockStyle}">Mã nhân viên:</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="0" Style="{StaticResource TextBlockStyle}">Họ tên:</TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="0" Style="{StaticResource TextBlockStyle}">Giới tính:</TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="0" Style="{StaticResource TextBlockStyle}">Số tiền bán hàng:</TextBlock>
+
+        <TextBox Width="200" Name="inputId" Grid.Row="1" Grid.Column="1" Style="{StaticResource TextBoxStyle}" />
+        <TextBox Width="400" Name="inputName" Grid.Row="2" Grid.Column="1" Style="{StaticResource TextBoxStyle}" />
+
+        <StackPanel VerticalAlignment="Center" Grid.Row="3" Grid.Column="1" Orientation="Horizontal">
+            <RadioButton IsChecked="True" Margin="10, 5,10,5" FontSize="14" Name="radMale" Content="Nam"/>
+            <RadioButton Margin="10,5,10,5" FontSize="14" Name="radFemale" Content="Nữ"/>
+        </StackPanel>
+
+        <TextBox Width="150" Name="inputPrice" Grid.Row="4" Grid.Column="1" Style="{StaticResource TextBoxStyle}" />
+
+        <TextBlock Margin="0,10,0,10" Style="{StaticResource TextBlockStyle}" Grid.Row="5" Grid.ColumnSpan="2">Danh sách nhân viên:</TextBlock>
+
+        <Border  Grid.Row="6" Grid.RowSpan="1" Grid.ColumnSpan="2" BorderThickness="2" BorderBrush="Green" />
+
+        <DataGrid Margin="10" Name="renderData" AutoGenerateColumns="False" Grid.Row="6" Grid.ColumnSpan="2" ColumnHeaderStyle="{StaticResource ColumnHeaderStyle}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="*" Binding="{Binding Id}" Header="Mã nhân viên" />
+                <DataGridTextColumn Width="*" Binding="{Binding Fullname}" Header="Họ và tên" />
+                <DataGridTextColumn Width="*" Binding="{Binding Gender}" Header="Giới tính" />
+                <DataGridTextColumn Width="*" Binding="{Binding Price}" Header="Số tiền bán hàng" />
+                <DataGridTextColumn Width="*" Binding="{Binding Bonus, StringFormat={}{0:N2}}" Header="Số tiền hoa hồng" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="7" Grid.ColumnSpan="2" HorizontalAlignment="Center" Orientation="Horizontal" VerticalAlignment="Center">
+            <Button Background="Pink" Style="{StaticResource ButtonStyle}" Template="{StaticResource ButtonTemplate}" Click="Button_Click">Thêm</Button>
+            <Button Background="Blue" Style="{StaticResource ButtonStyle}" Template="{StaticResource ButtonTemplate}" Click="Button_Click_1">Window 2</Button>
+        </StackPanel>
+    </Grid>
+</Window>

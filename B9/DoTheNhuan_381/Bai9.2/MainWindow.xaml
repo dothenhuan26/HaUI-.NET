@@ -1,0 +1,51 @@
+﻿<Window x:Class="Bai9._2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai9._2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid ShowGridLines="False" Margin="10">
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" FontSize="16" VerticalAlignment="Center">Họ tên</TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="0" FontSize="16" VerticalAlignment="Center">Gioi tính</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="0" FontSize="16" VerticalAlignment="Center">Phòng ban</TextBlock>
+
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="name" FontSize="18" VerticalAlignment="Center" />
+
+        <ComboBox Name="gender" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center">
+            <ComboBoxItem IsSelected="True">Nam</ComboBoxItem>
+            <ComboBoxItem>Nữ</ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox Name="department" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center">
+            <ComboBoxItem IsSelected="True">Phòng kỹ thuật</ComboBoxItem>
+            <ComboBoxItem>Phòng kinh doanh</ComboBoxItem>
+            <ComboBoxItem>Phòng hành chính</ComboBoxItem>
+        </ComboBox>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center">
+            <Button Name="add" Style="{StaticResource ButtonStyle}" Click="add_Click" >Thêm</Button>
+            <Button Name="finish" Style="{StaticResource ButtonStyle}" Click="finish_Click">Thoát</Button>
+        </StackPanel>
+
+        <ListBox Name="list_box" Grid.Row="4" Grid.ColumnSpan="2">
+        </ListBox>
+
+    </Grid>
+</Window>

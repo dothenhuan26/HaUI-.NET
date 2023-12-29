@@ -1,0 +1,4 @@
+D:\Personal\Documents\University\.NET\B9\Bai9\Bai9\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Personal\Documents\University\.NET\B9\Bai9\Bai9\obj\Debug\net6.0-windows\App.g.cs
+D:\Personal\Documents\University\.NET\B9\Bai9\Bai9\obj\Debug\net6.0-windows\Bai91_MarkupCompile.cache
+D:\Personal\Documents\University\.NET\B9\Bai9\Bai9\obj\Debug\net6.0-windows\Bai91_MarkupCompile.lref
