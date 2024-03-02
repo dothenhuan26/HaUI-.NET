@@ -2012,11 +2012,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Personal\\Documents\\University\\.NET\\B10\\DemoEFCore\\DemoEFCore\\DemoEFCore.csproj",
       "projectName": "DemoEFCore",
       "projectPath": "D:\\Personal\\Documents\\University\\.NET\\B10\\DemoEFCore\\DemoEFCore\\DemoEFCore.csproj",
       "packagesPath": "C:\\Users\\Nhuan\\.nuget\\packages\\",
       "outputPath": "D:\\Personal\\Documents\\University\\.NET\\B10\\DemoEFCore\\DemoEFCore\\obj\\",
+=======
+      "projectUniqueName": "D:\\Personal\\Documents\\University\\.NET\\B11\\DemoEFCore\\DemoEFCore\\DemoEFCore.csproj",
+      "projectName": "DemoEFCore",
+      "projectPath": "D:\\Personal\\Documents\\University\\.NET\\B11\\DemoEFCore\\DemoEFCore\\DemoEFCore.csproj",
+      "packagesPath": "C:\\Users\\Nhuan\\.nuget\\packages\\",
+      "outputPath": "D:\\Personal\\Documents\\University\\.NET\\B11\\DemoEFCore\\DemoEFCore\\obj\\",
+>>>>>>> 82d633cf925243b793b95832aeeea8d12cfb8ab0
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nhuan\\AppData\\Roaming\\NuGet\\NuGet.Config",

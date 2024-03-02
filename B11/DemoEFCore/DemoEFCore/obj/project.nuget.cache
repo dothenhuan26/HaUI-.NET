@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "pBoYucJcSfpmhAh8fcwEOJjH4LzuQySMIC+mpV5JQa92ukWBRwowMzQtoBr3PDEM+fo6NMKROV2tib2Xsn8Ziw==",
   "success": true,
   "projectFilePath": "D:\\Personal\\Documents\\University\\.NET\\B10\\DemoEFCore\\DemoEFCore\\DemoEFCore.csproj",
+=======
+  "dgSpecHash": "RtKKX5uRfL2jIQw3Wf6Ly7WRQCZf/BMFEULpPNwjVyB+47D3+c4GVc2kxTY3xWbWLr3O5q/nxhroMFk6PTqtyg==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\Documents\\University\\.NET\\B11\\DemoEFCore\\DemoEFCore\\DemoEFCore.csproj",
+>>>>>>> 82d633cf925243b793b95832aeeea8d12cfb8ab0
   "expectedPackageFiles": [
     "C:\\Users\\Nhuan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nhuan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
